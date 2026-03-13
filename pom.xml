@@ -8,7 +8,7 @@
 		<version>3.5.11</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.gestion.proyecto</groupId>
+	<groupId>com.gestion.proyectos</groupId>
 	<artifactId>sistema-proyectos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sistema-proyectos</name>
